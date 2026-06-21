@@ -1,1 +1,1 @@
-cb5cc1aafddb443ed956a5101b548be207371ee45b6f428685e0c275704f125b  drox-tui-2.0.2-windows-x64-setup.exe
+3a6bfb7fe93bcd9212d88bc14739c2e7051602688919ffff265d01d7ca0b0eed  drox-tui-2.0.2-windows-x64-setup.exe
