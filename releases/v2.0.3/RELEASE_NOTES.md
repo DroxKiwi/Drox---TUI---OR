@@ -101,4 +101,8 @@ drox-tui --workspace ~/projets/mon-repo
 
 ## Empreinte Windows
 
-SHA256 `drox-tui-2.0.3-windows-x64-setup.exe` : `e404648c67b0a3a2937cb9ecec2946c718694e76b08a3a54ef252df9243e342c`
+SHA256 `drox-tui-2.0.3-windows-x64-setup.exe` : `5e03b151f2a241f43a3768ca88ee7e7ea600e0502237a8e65a7ef3875e231b22`
+
+## Empreinte Linux
+
+SHA256 `drox-tui-2.0.3-linux-x64.tar.gz` : `f6d744fd2c75918981a117a403e4abe435476985ec42aade7521cafd59f0b234`
