@@ -1,5 +1,8 @@
 # Drox TUI — releases officielles
 
+> **Tu découvres Drox ?** Tu es au bon endroit : **Drox TUI** se lance en terminal et convient mieux aux débutants.  
+> **Produit sœur** : **[Drox IDE](https://github.com/DroxKiwi/Drox---IDE---OR)** (éditeur graphique, fork VS Code, même moteur agent) — **beaucoup plus difficile à prendre en main** (install lourde, UI riche, toujours expérimental). On recommande de **commencer par le TUI**.
+
 ## But du projet — souveraineté et feuille de route
 
 ### Où en est Drox TUI (2.0.x)
@@ -495,6 +498,11 @@ Seule communication produit Drox vers l’extérieur : **vérification de versio
 | Code source moteur ouvert | — |
 
 ---
+
+---
+
+> **New to Drox?** This repo is **Drox TUI** — a **terminal** agent, the easiest way to start.  
+> **Sibling product**: **[Drox IDE](https://github.com/DroxKiwi/Drox---IDE---OR)** (graphical editor, VS Code fork, same agent engine) — **much harder to get started with** (heavy install, rich UI, still experimental). **Start with the TUI** first.
 
 ## EN — Project goal — sovereignty and roadmap
 
